@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4GqbYLZ9b4hd7dxr5XDMPAzhbZdQR7cx4cU18RKwKqqjn9HmnnPfN0xvpYKuAKNFffVl5nrp33t2UhXwlOafA==",
+  "success": true,
+  "projectFilePath": "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/310790-nugettest.csproj",
+  "expectedPackageFiles": [
+    "/Users/harshv/.nuget/packages/grpc/2.46.6/grpc.2.46.6.nupkg.sha512",
+    "/Users/harshv/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/harshv/.nuget/packages/grpc.core.api/2.46.6/grpc.core.api.2.46.6.nupkg.sha512",
+    "/Users/harshv/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

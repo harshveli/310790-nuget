@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/310790-nugettest.csproj": {}
+  },
+  "projects": {
+    "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/310790-nugettest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/310790-nugettest.csproj",
+        "projectName": "310790-nugettest",
+        "projectPath": "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/310790-nugettest.csproj",
+        "packagesPath": "/Users/harshv/.nuget/packages/",
+        "outputPath": "/Users/harshv/Projects/310790-nuget/310790-nugettest/310790-nugettest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harshv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://logeshtest.jfrog.io/artifactory/api/nuget/v3/ado-nuget/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Grpc": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
