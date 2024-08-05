@@ -36,6 +36,6 @@ steps:
 - task: JFrogNuGet@1
   inputs:
     command: 'restore'
-    artifactoryConnection: 'logeshtest'
+    artifactoryConnection: 'logesh'
     targetResolveRepo: 'ado-nuget'
     solutionPath: '**/*.sln'
